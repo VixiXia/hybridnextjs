@@ -7,7 +7,7 @@
 To run locally, start by installing the Node dependencies. 
 
 ```bash
-npm install
+npm install 
 ```
 
 Start the development server with the following command:
